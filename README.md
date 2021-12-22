@@ -66,7 +66,7 @@ Log: 2007-01-09 09:41:00.000002
 
 ***You will find a `<date>.log`in a `data` directory with all devices found this day***
 
-### Save known devices
+### Save known devices ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Your JSON exemple not working! I try to paste example down but i's still not working. Edit it true, please.`
 1. create json file: `data/devices.json`
 2. Use the following format:
 ```json
